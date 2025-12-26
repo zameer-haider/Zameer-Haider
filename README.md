@@ -4,24 +4,6 @@
 💻 Front-End Web Developer  
 🌱 Currently learning JavaScript & React  
 
-## 🔧 Skills
-- HTML5
-- CSS3
-- JavaScript
-- Git & GitHub
-
-## 📂 Projects
-- 🌐 Portfolio Website
-- 📊 Student Marksheet (Excel Project)
-- 🧠 Psychology Research Assignments
-
-## 📫 Contact Me
-- GitHub: https://github.com/zameer-
-- LinkedIn: # Hi 👋 I'm Zameer Dhariwal
-
-🎓 Computer Science Student  
-💻 Front-End Web Developer  
-🌱 Currently learning JavaScript & React  
 
 ## 🔧 Skills
 - HTML5
