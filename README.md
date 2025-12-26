@@ -1,4 +1,5 @@
-# Hi 👋 I'm Zameer Dhariwal
+# Hi 👋 I'm Zameer Haider
+
 
 🎓 Computer Science Student  
 💻 Front-End Web Developer  
